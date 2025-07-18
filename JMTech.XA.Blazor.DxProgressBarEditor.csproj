@@ -7,7 +7,7 @@
 	<AssemblyVersion>24.2.8.0</AssemblyVersion>
 	<Version>24.2.8.0</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/DxProgressBarPropertyEditor</RepositoryUrl>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.XA.Blazor.DxProgressBarEditor</RepositoryUrl>
 	<Title>ExpressApp Blazor DxProgressBarPropertyEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
