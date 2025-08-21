@@ -2,7 +2,7 @@
 using DevExpress.ExpressApp.Blazor.Components.Models;
 using System.ComponentModel;
 
-namespace JMTech.ExpressApp.Blazor.Editors.Models;
+namespace AvTex.ExpressApp.Blazor.Editors.Models;
 
 public class DxProgressBarModel : ComponentModelBase
 {
